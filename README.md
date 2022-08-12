@@ -1,2 +1,2 @@
-# PP0001_Programming-for-Data-Analysis_Project_Version-1
+# PP0001_Programming-for-Data-Analysis_Project_World Energy Data
 This is a project submiited as as part of my course work for M.Sc Data Science from Cardiff Metropolitan University. This version is my first attempt at the analysis of the dataset and was graded for the course as 83% out of 100%. I would be working on a version 2 of this project to take the analysis further towards the initially defined objective of the project.
